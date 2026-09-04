@@ -1,6 +1,6 @@
 {
   "items": [
-    { "id": "checklist", "label": "Checklist do veículo feito hoje", "active": true },
-    { "id": "curso", "label": "Curso do A to Z em dia", "active": false }
+    { "id": "checklist", "label": "Checklist do veículo feito hoje?", "active": true },
+    { "id": "curso", "label": "Curso do A to Z em dia?", "active": true }
   ]
 }
